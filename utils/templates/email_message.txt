@@ -1,0 +1,3 @@
+Hey {name}
+Just testing! Today is {date} and you paid ${amount}
+regards :-)
